@@ -1,0 +1,5 @@
+build/
+cavity/
+Make/linux64GccDPInt32Opt/
+*.o
+foamRunCMake
